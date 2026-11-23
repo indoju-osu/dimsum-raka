@@ -1,0 +1,6 @@
+{
+  "name": "Dapur Ibu Raka Dimsum",
+  "description": "E-Commerce UMKM Dimsum Artisanal — Dapur Ibu Raka Dimsum dengan Checkout WhatsApp dan Dashboard Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
